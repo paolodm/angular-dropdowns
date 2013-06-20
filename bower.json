@@ -1,0 +1,12 @@
+{
+  "name": "angular-dropdowns",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular-latest": "~1.1.5"
+  }
+}
